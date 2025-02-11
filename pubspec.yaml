@@ -1,0 +1,144 @@
+name: tinder
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons
+  cupertino_icons: ^1.0.8
+  iconsax: ^0.0.8
+
+  # State Management
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  # utility package
+  http: ^1.2.2
+  url_launcher: ^6.3.1
+  intl: ^0.20.1
+  logger: ^2.5.0
+  lottie: ^3.2.0
+  connectivity_plus: ^5.0.1
+  shimmer: ^3.0.0
+  permission_handler: ^11.3.1
+  file_picker: ^8.1.3
+
+
+  # image picker
+  numberpicker: ^2.1.2
+  image_picker: ^1.1.2
+  cached_network_image: ^3.4.1
+  #firebase
+  firebase_storage: ^12.3.7
+  firebase_core: ^3.9.0 #^2.23.0
+  firebase_auth: ^5.3.4 #^4.14.0
+  cloud_firestore: ^5.6.0 #^4.13.1
+  google_sign_in: ^6.2.2  #6.1.6
+
+  percent_indicator: ^4.2.4
+  shared_preferences: ^2.3.4
+  multi_image_picker_plus: ^0.0.3
+  provider: ^6.1.2
+
+
+
+  googleapis_auth: ^1.6.0
+  googleapis: ^13.2.0
+
+  flutter_native_splash: ^2.4.4
+  smooth_page_indicator: ^1.2.0+3
+  # Product Specific
+  carousel_slider: ^5.0.0
+  readmore: ^2.2.0
+  flutter_rating_bar: ^4.0.1
+
+
+
+  #connectivity_plus:
+  #url_launcher:
+
+
+dependency_overrides:
+  win32: ^5.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/logos/
+    - assets/icons/
+    - assets/fonts/poppins/
+    - assets/on_boarding_images/
+    - assets/images/animations/
+    - assets/icons/categories/
+    - assets/images/banners/
+    - assets/images/user/
+    - assets/icons/payment_methods/
+    - assets/images/loading_data/
+    - assets/images/success/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-LightItalic.ttf
+          weight: 300
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/poppins/Poppins-Italic.ttf
+          style: italic
+        - asset: assets/fonts/poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        -  asset: assets/fonts/poppins/Poppins-SemiBold.ttf
+           weight: 600
+        -  asset: assets/fonts/poppins/Poppins-Medium.ttf
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
