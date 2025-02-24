@@ -7,7 +7,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ M_shop is a flutter project which allow clients to buy products online .
+
+## Project 
+
+![HOMESCREEN](assets/git/1.jpeg)
+![CATEGORY](assets/git/2.jpeg)
+![FILTER](assets/git/3.jpeg)
+![WHISHLIST](assets/git/4.jpeg)
+![ACCOUNT](assets/git/6.jpeg)
+![PRODUCT DETAILS](assets/git/7.jpeg)
+![SHOPPING CART](assets/git/8.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
