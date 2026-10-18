@@ -16,44 +16,42 @@ M-Shop is a Flutter-based e-commerce mobile application that allows customers to
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Home Screen</strong><br/>
-      <img src="assets/git/1.jpeg" alt="M-Shop Home Screen" width="240"/>
+      <img src="assets/git/1.jpeg" alt="M-Shop Home Screen" width="180"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Categories</strong><br/>
-      <img src="assets/git/2.jpeg" alt="Product Categories" width="240"/>
+      <img src="assets/git/2.jpeg" alt="Product Categories" width="180"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Product Filtering</strong><br/>
-      <img src="assets/git/3.jpeg" alt="Product Filtering" width="240"/>
+      <img src="assets/git/3.jpeg" alt="Product Filtering" width="180"/>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <strong>Wishlist</strong><br/>
-      <img src="assets/git/4.jpeg" alt="Wishlist" width="240"/>
+      <img src="assets/git/4.jpeg" alt="Wishlist" width="180"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Account</strong><br/>
-      <img src="assets/git/6.jpeg" alt="User Account" width="240"/>
+      <img src="assets/git/6.jpeg" alt="User Account" width="180"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Product Details</strong><br/>
-      <img src="assets/git/7.jpeg" alt="Product Details" width="240"/>
+      <img src="assets/git/7.jpeg" alt="Product Details" width="180"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Shopping Cart</strong><br/>
-      <img src="assets/git/8.jpeg" alt="Shopping Cart" width="240"/>
+      <img src="assets/git/8.jpeg" alt="Shopping Cart" width="180"/>
     </td>
-    <td width="50%"></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
-
 ## 🚀 Getting Started
 
 ### Prerequisites
